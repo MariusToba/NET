@@ -1,0 +1,11 @@
+E:\Projects\C#\facemsoft4\facemsoft4\bin\Debug\facemsoft4.exe.config
+E:\Projects\C#\facemsoft4\facemsoft4\obj\Debug\facemsoft4.Form1.resources
+E:\Projects\C#\facemsoft4\facemsoft4\obj\Debug\facemsoft4.Properties.Resources.resources
+E:\Projects\C#\facemsoft4\facemsoft4\obj\Debug\facemsoft4.csproj.GenerateResource.Cache
+E:\Projects\C#\facemsoft4\facemsoft4\bin\Debug\facemsoft4.exe
+E:\Projects\C#\facemsoft4\facemsoft4\bin\Debug\facemsoft4.pdb
+E:\Projects\C#\facemsoft4\facemsoft4\obj\Debug\facemsoft4.exe
+E:\Projects\C#\facemsoft4\facemsoft4\obj\Debug\facemsoft4.pdb
+E:\Projects\C#\facemsoft4\facemsoft4\obj\Debug\facemsoft4.NameForm.resources
+E:\Projects\C#\facemsoft4\facemsoft4\obj\Debug\facemsoft4.ScoreForm.resources
+E:\Projects\C#\facemsoft4\facemsoft4\obj\Debug\facemsoft4.csprojResolveAssemblyReference.cache
